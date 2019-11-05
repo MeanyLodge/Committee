@@ -18,3 +18,9 @@ This repository is an idea that _might_ make the organization and sharing of our
 - issues and pages can be edited by multiple collaborators
 - it's free
 - linked and related issues can break down big projects into bite-sized (1 day/weekend) pieces
+- data is free from "on so-and-so's computer" issues
+
+## potential issues
+
+- only basic ([Markdown](https://github.github.com/gfm/)) formatting available
+- makes us look 🤓
