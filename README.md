@@ -12,13 +12,14 @@ This repository is an idea that _might_ make the organization and sharing of our
 
 ## potential benefits
 
-- emails updates to issues to everyone who participates in that issue
-- automatic issue tracking
-- we can post images inside the issues
 - issues and pages can be edited by multiple collaborators
-- it's free
+- easier for new collaborators to a project to "catch up"
 - linked and related issues can break down big projects into bite-sized (1 day/weekend) pieces
-- data is free from "on so-and-so's computer" issues
+- emails updates to issues to everyone who participates in that issue
+- automatic progress tracking
+- we can post images inside the issues
+- it's free
+- data is free from "on so-and-so's phone/computer" issues
 
 ## potential issues
 
