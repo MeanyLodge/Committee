@@ -16,3 +16,4 @@ This repository is an idea that _might_ make the organization and sharing of our
 - we can post images inside the issues
 - issues and pages can be edited by multiple collaborators
 - it's free
+- linked and related issues can break down big projects into bite-sized (1 day/weekend) pieces
