@@ -14,4 +14,5 @@ This repository is an idea that _might_ make the organization and sharing of our
 - emails updates to issues to everyone who participates in that issue
 - automatic issue tracking
 - we can post images inside the issues
+- issues and pages can be edited by multiple collaborators
 - it's free
