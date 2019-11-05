@@ -4,8 +4,8 @@ The Meany Lodge committee organize and participate in annual work parties that m
 
 This repository is an idea that _might_ make the organization and sharing of our activities easier to manage. If you're willing to give this idea a whirl:
 
-- create an issue or two
-- post some photos or share comments on existing issues
+- browse the [existing issues](https://github.com/MeanyLodge/Committee/issues). Post photos or share comments on them.
+- [create an issue](https://github.com/MeanyLodge/Committee/issues/new) or two
 - after kicking the tires, invite someone else to
 
 
