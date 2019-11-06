@@ -8,4 +8,4 @@ This repository is an idea that _might_ make the organization and sharing of our
 - [create an issue](https://github.com/MeanyLodge/Committee/issues/new) or two
 - review or edit one of the [wiki pages](https://github.com/MeanyLodge/Committee/wiki)
 - after kicking the tires, invite someone else to
-- comment on Issue #10 (is this a good idea?)
+- comment on Issue [#10](https://github.com/MeanyLodge/Committee/issues/10) (is this a good idea?)
