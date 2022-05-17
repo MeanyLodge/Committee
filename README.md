@@ -22,12 +22,14 @@ Things you can do here:
 ```mermaid
 gantt
 dateFormat  YYYY-MM-DD
-title Adding GANTT diagram to mermaid
+title Meany 2022 Projects
 excludes weekdays 2014-01-10
 
 section A section
 Completed task            :done,    des1, 2014-01-06,2014-01-08
-Active task               :active,  des2, 2014-01-09, 3d
-Future task               :         des3, after des2, 5d
-Future task2               :         des4, after des3, 5d
+[Insulate Deck](https://github.com/MeanyLodge/Committee/issues/29) : active, iss29, 2022-07-01, 1d
+[Tree Felling & firewood](https://github.com/MeanyLodge/Committee/issues/32)               :active,  iss32, 2022-07-01, 60d
+[Seal tunnel walls](https://github.com/MeanyLodge/Committee/issues/32)               :         iss32, 2d
+[widen driveway](https://github.com/MeanyLodge/Committee/issues/13) : iss13, 2d
+Future task2              :         des4, after des3, 5d
 ```
