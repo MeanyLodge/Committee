@@ -27,18 +27,25 @@ title Meany 2022 Projects
 excludes weekdays 2022-07-01
 
 section No Dependencies
-Tree Felling & firewood   :active,  iss32, 2022-06-11, 60d
-Kitchen expansion         :active,  iss23, 2w
-Repair power line         :active,  iss20, 1d
-Zoo extension             :active,  iss14, 60d
-widen driveway            :         iss13, 2d
-safer sledding hill       :active,  iss24, 2d
-dam repair/rebuild        :         iss25, 2w
-tunnel: seal & paint walls:active,  iss28, 2022-07-15, 2d
-tunnel: insulate deck     :active,  iss29, 2022-07-15, 2d
+Tree Felling & firewood    :active,  iss32, 2022-06-11, 60d
+Repair power line          :active,  iss20, 2022-06-15, 1d
+widen driveway             :         iss13, 2022-08-01, 2d
+safer sledding hill        :         iss24, 2022-08-01, 2d
+dam, repair/rebuild        :         iss25, 2w
+
+section Mechanics
+Yeti shifter               :active,  iss30, 1d
+
+section Buildings
+Kitchen expansion          :active,  iss23, 2022-06-15, 2w
+Zoo extension              :active,  iss14, 2022-06-15, 60d
+tunnel, seal & paint walls :active,  iss28, 2022-07-15, 2d
+tunnel, insulate deck      :active,  iss29, 2022-07-15, 2d
+tunnel, repair handrail    :         2022-07-15, 1d
 
 section Examples
 Completed task            :done,    des1, 2022-07-01,2022-07-08
 Future task2              :         des4, after des3, 5d
 ```
 
+[mermaid live](https://mermaid-js.github.io/mermaid-live-editor/edit)
