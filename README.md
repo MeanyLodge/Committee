@@ -28,7 +28,7 @@ excludes weekdays 2014-01-10
 
 section A section
 Completed task            :done,    des1, 2014-01-06,2014-01-08
-[Insulate Deck](https://github.com/MeanyLodge/Committee/issues/29) : active, des29, 2022-07-01, 1d
+Insulate Deck             :active,  des2, 2022-07-01, 1d
 Future task2              :         des4, after des3, 5d
 ```
 
