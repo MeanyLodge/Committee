@@ -5,7 +5,7 @@
 
 
 # Stuff found here
-- [source code](https://github.com/MeanyLodge/meanylodge.github.com) for our informational / [history web site](https://meanylodge.github.io).
+- [source code](https://github.com/MeanyLodge/meanylodge.github.com) for our informational / [history.meanylodge.org](https://history.meanylodge.org).
 - [Committee](https://github.com/MeanyLodge/Committee) projects, documentation, manuals, photos, and other information.
 
 
