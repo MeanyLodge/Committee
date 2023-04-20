@@ -5,13 +5,13 @@
 
 
 # Stuff found here
-- [source code](https://github.com/MeanyLodge/meanylodge.github.com) for our informational / [history.meanylodge.org](https://history.meanylodge.org).
+- [source code](https://github.com/MeanyLodge/history.meanylodge.org) for our informational / [history.meanylodge.org](https://history.meanylodge.org) site.
 - [Committee](https://github.com/MeanyLodge/Committee) projects, documentation, manuals, photos, and other information.
 
 
 # Work Parties
 
-The Meany Lodge committee organizes and participates in annual [work parties](https://meanylodge.github.io/Work-Parties) that maintain and prepare the lodge for the ski season.
+The Meany Lodge committee organizes and participates in annual [work parties](https://history.meanylodge.org/Work-Parties) that maintain and prepare the lodge for the ski season.
 
 Things you can do here:
 
